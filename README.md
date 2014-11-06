@@ -1,3 +1,5 @@
+[SWTChart](http://www.swtchart.org/)
+
 org.swtchart.examples.ext
 =========================
 # SWTChart is a chart component which has following basic functionalities.
